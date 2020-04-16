@@ -8,6 +8,7 @@ apt-get install ca-certificates -y
 yum install ca-certificates -y
 ```
 
+安装
 ```
 wget -N "https://raw.githubusercontent.com/ss-daily-backup/Linux-NetSpeed-chiakge/master/tcp.sh"
 chmod +x tcp.sh
